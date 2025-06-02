@@ -150,7 +150,7 @@ Dashboard ini memberikan visualisasi interaktif tentang faktor-faktor yang memen
 
 Dashboard dapat diakses melalui [link berikut](https://public.tableau.com/app/profile/fadhilah.nurrahmayanti/viz/HRAttritionDashboard_17487728652930/Dashboard?publish=yes).
 
-![dashboard](dashboard/dilaafn-dashboard.png)
+![dashboard](dashboard/dilaafn-dashboard.png?raw=true)
 
 ---
 
